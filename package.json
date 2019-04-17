@@ -1,0 +1,12 @@
+{
+    "name": "img-gallery",
+    "version": "1.0.0",
+    "description": "Shpit'z image gllery",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
